@@ -1,7 +1,0 @@
-server: mysql8
-buffer_pool: 140
-io_capacity: 7000
-threads: 56
-storage: SSD
-host: beast-node3-ubuntu
-buffer_pool_instances: 32
